@@ -1,4 +1,4 @@
-# DLP_Project: Stock Price Prediction Using Hybrid Machine Learning Models
+# DLP_Project: Stock Price Prediction Using Deep Machine Learning Models
 
 ## Project Overview
 This project focuses on predicting the directional movement (up or down) of the Dow Jones Industrial Average (DJIA) stock index using a hybrid approach that combines numerical time-series data and textual news sentiment. Three models are implemented and compared: LSTM with FinBERT, Random Forest, and a Simple RNN. The project includes data preprocessing, model training, evaluation, and a detailed report.
