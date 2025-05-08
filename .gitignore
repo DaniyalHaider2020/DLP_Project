@@ -1,0 +1,8 @@
+# Ignore large model files
+StockPrediction_Model/*.keras
+StockPrediction_Model/rf_model.pkl
+StockPrediction_Model/*.npy
+# Ignore temporary files
+*.zip
+__pycache__/
+*.pyc
